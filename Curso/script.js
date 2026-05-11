@@ -1,0 +1,1 @@
+console.log("Estoy en la carpeta externa actualmente");
